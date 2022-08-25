@@ -1,0 +1,32 @@
+{
+	"storyName": "new introduction",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "newstage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf menu",
+		""
+	],
+	"songs": [
+		[
+			"tutorial",
+			"gfb",
+			[
+				80,
+				100,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

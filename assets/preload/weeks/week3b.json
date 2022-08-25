@@ -1,0 +1,50 @@
+{
+	"storyName": "shot now!",
+	"difficulties": "hard, erect",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf menu",
+		""
+	],
+	"songs": [
+		[
+			"pico",
+			"picob",
+			[
+				73,
+				73,
+				73
+			]
+		],
+		[
+			"philly",
+			"picob",
+			[
+				73,
+				73,
+				73
+			]
+		],
+		[
+			"blam",
+			"picob",
+			[
+				73,
+				73,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

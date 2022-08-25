@@ -1,0 +1,50 @@
+{
+	"storyName": "lets play again",
+	"difficulties": "hard,erect",
+	"hideFreeplay": false,
+	"weekBackground": "newstage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf menu",
+		""
+	],
+	"songs": [
+		[
+			"Bopeebo",
+			"dadb",
+			[
+				226,
+				173,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"dadb",
+			[
+				226,
+				173,
+				253
+			]
+		],
+		[
+			"dadbattle",
+			"dadb",
+			[
+				226,
+				173,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week 1b",
+	"hiddenUntilUnlocked": false
+}
