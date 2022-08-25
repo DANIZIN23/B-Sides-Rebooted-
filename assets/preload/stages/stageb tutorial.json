@@ -1,0 +1,9 @@
+{
+	"directory": "stageb",
+	"defaultZoom": 1,
+	"isPixelStage": false,
+
+	"boyfriend": [600, -50, 1, 1],
+	"girlfriend": [200, -50],
+	"opponent": [50, -50, 1, 1]
+}

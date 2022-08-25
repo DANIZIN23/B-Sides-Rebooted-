@@ -1,0 +1,9 @@
+{
+	"directory": "park",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [450, 0, 1, 1],
+	"girlfriend": [100, -125],
+	"opponent": [-450, 0, 1, 1]
+}

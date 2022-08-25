@@ -1,0 +1,9 @@
+{
+	"directory": "philly_blammed",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [400, 25, 1, 1],
+	"girlfriend": [-100, -5],
+	"opponent": [-400, 25, 1, 1]
+}
