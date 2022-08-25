@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skip.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idleskip0000" x="100" y="100" width="370" height="476" frameX="-2" frameY="-15" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0001" x="100" y="100" width="370" height="476" frameX="-2" frameY="-15" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0002" x="570" y="100" width="366" height="481" frameX="-2" frameY="-10" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0003" x="570" y="100" width="366" height="481" frameX="-2" frameY="-10" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0004" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0005" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0006" x="1498" y="100" width="359" height="491" frameX="0" frameY="0" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0007" x="1498" y="100" width="359" height="491" frameX="0" frameY="0" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0008" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0009" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0010" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0011" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0012" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0013" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+	<SubTexture name="idleskip0014" x="1036" y="100" width="362" height="486" frameX="-1" frameY="-5" frameWidth="372" frameHeight="491"/>
+</TextureAtlas>

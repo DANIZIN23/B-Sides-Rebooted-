@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carolwalk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Carol0000" x="100" y="100" width="444" height="669" frameX="0" frameY="-16" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0001" x="100" y="100" width="444" height="669" frameX="0" frameY="-16" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0002" x="644" y="100" width="438" height="683" frameX="-6" frameY="-2" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0003" x="644" y="100" width="438" height="683" frameX="-6" frameY="-2" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0004" x="1182" y="100" width="444" height="678" frameX="0" frameY="-7" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0005" x="1182" y="100" width="444" height="678" frameX="0" frameY="-7" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0006" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0007" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0008" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0009" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0010" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0011" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0012" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+	<SubTexture name="Carol0013" x="100" y="883" width="444" height="685" frameX="-3" frameY="0" frameWidth="447" frameHeight="685"/>
+</TextureAtlas>
