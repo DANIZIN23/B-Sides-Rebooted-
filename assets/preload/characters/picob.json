@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				26,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-48,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				81,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				175,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				100
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LEFTshoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "RIGHTshoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "UPshoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"offsets": [
+				-50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "DOWNshoot",
+			"indices": [],
+			"name": "shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_b",
+	"position": [
+		100,
+		320
+	],
+	"healthicon": "picob",
+	"flip_x": true,
+	"healthbar_colors": [
+		70,
+		57,
+		90
+	],
+	"camera_position": [
+		-50,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
