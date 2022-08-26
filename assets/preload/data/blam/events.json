@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "philly_b",
+		"player1": "bf_b",
+		"player2": "picob",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				348.837209302326,
+				[
+					[
+						"LinearAlpha",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				11162.7906976744,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"LinearAlpha",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				44651.1627906977,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0.3"
+					]
+				]
+			],
+			[
+				66976.7441860466,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_b",
+		"bpm": 172,
+		"arrowSkin": "note b",
+		"needsVoices": true,
+		"song": "blam"
+	}
+}
