@@ -81,9 +81,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['B-Sides Rebooted Android Port'],
-			['shyrxZ',		'shyrxZ',		'eu sinto o shadow no meu cu',								'https://youtube.com/channel/UCNtz_vrUJUBfvf-nXT6XX8A',	'FF0000'],
-            ['Danizin',		'no',		'ajudou muito o shyrxZ na hora de porta slk',								'https://youtube.com/channel/UCvTYcAn6ciOojpfcHtUxJBQ,	'FFFFFF'],
+			['B-Sides Rebooted Android Port']
+			['shyrxZ',		'shyrxZ'		'eu sinto o shadow no meu cu',								'https://youtube.com/channel/UCNtz_vrUJUBfvf-nXT6XX8A',	'FF0000'],
+            ['Danizin'   'no'		'ajudou muito o shyrxZ na hora de porta slk'								'https://youtube.com/channel/UCvTYcAn6ciOojpfcHtUxJBQ,	'FFFFFF'],
             [''],
             ['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
